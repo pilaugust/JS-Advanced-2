@@ -1,0 +1,11 @@
+#movingObject {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+}
+
+#movingImg{
+    width: 150px;
+    width: 150px;
+}
